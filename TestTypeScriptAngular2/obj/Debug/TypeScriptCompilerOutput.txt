@@ -1,0 +1,6 @@
+C:\AmitGera\Projects\angularExample\TestTypeScriptAngular2\TestTypeScriptAngular2\Scripts\App\model.js
+C:\AmitGera\Projects\angularExample\TestTypeScriptAngular2\TestTypeScriptAngular2\Scripts\App\model.js.map
+C:\AmitGera\Projects\angularExample\TestTypeScriptAngular2\TestTypeScriptAngular2\Scripts\App\app.js
+C:\AmitGera\Projects\angularExample\TestTypeScriptAngular2\TestTypeScriptAngular2\Scripts\App\app.js.map
+C:\AmitGera\Projects\angularExample\TestTypeScriptAngular2\TestTypeScriptAngular2\Scripts\App\main.js
+C:\AmitGera\Projects\angularExample\TestTypeScriptAngular2\TestTypeScriptAngular2\Scripts\App\main.js.map
